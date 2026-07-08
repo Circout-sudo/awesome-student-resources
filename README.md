@@ -102,6 +102,7 @@ Official and community prep for the big exams and curricula.
 - **[StudyIB](https://studyib.net)** - Concise revision notes and step-by-step explanations across the IB Diploma syllabus.
 - **[Studynova](https://www.studynova.com)** - IB video courses and study guides across HL and SL.
 - **[ZNotes IB](https://znotes.org)** - Free syllabus-aligned notes for IB subjects.
+- **[Sirius Revision](https://www.youtube.com/@siriusrevision)** - Videos on IB Math AA/AI SL, and Physics,Chem and Bio SL/HL.
 
 </details>
 
